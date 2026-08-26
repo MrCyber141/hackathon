@@ -1,0 +1,3 @@
+# Optional requirements for CyberAudit
+# Keep minimal; the tool uses only stdlib. Add extras here if desired.
+# e.g., rich==13.3.0
